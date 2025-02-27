@@ -1,6 +1,6 @@
 # 🧰 42 Project: Minitalk
 
-![Screenshot from 2025-02-27 11-43-16](https://github.com/user-attachments/assets/62e8e819-f26b-40f7-9bce-e545dd25ca5a)
+file:///home/milestone00/Downloads/Screencast%20from%202025-02-27%2011-50-46.gif
 
 ## About the project
 Minitalk is a data exchange program that demonstrates client-server communication using UNIX signals. This project serves as an introduction to signal handling and inter-process communication.
